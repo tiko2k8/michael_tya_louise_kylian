@@ -12,8 +12,21 @@
   des documents, des fichiers et d'autres contenus.
 - Sabio logiciel de gestion des connaissances Sabio vous permet de créer des outils de base de connaissances dans un environnement multicanal.
 
+
+
 - quels outils sont mobilisés ?
-- ordinateur, souris, logiciel, connexion
+- quels usagers sont mobilisés ? 
+- quelles infratrustructures peuvent être utilisées ?
+- comment recueille-t-on des informations ?
+- comment travailler collectivement de manière efficace ?
+- quelles distractions peuvent freiner notre capacité de production de connaissances ?
+- où peut on utilisé les outils ?
+- comment utilise t-on le logiciel ?
+- quels sont les specialités du logiciel ?
+
+
+# Get Guru
 
 - #helpjuice
+
 - 
