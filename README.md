@@ -11,3 +11,8 @@
 - SharePoint de Microsoft est une plateforme de collaboration basée sur le web et un logiciel de base de connaissances qui permet aux utilisateurs de stocker, d'organiser et de partager 
   des documents, des fichiers et d'autres contenus.
 - Sabio logiciel de gestion des connaissances Sabio vous permet de créer des outils de base de connaissances dans un environnement multicanal.
+
+- quels outils sont mobilisés ?
+- ordinateur, souris, logiciel, connexion
+
+- 
