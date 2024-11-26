@@ -10,13 +10,10 @@
 - kylian : table
 - louise : calendrier
 - louise : CDI
-- tya : bibliothèque
 - louise : café ( infrastructures )
 - kylian : livre
-- tya : feuille
 - michael : Etherpad : éditeur de texte en temps réel
 - michael : google drive : partage fichiers
-- tya : miro : créer cartes mentales et diagrammes
 - michael : Airtable : base de données
 - kylian/tya : Slack : communication d'équipes 
 
@@ -28,7 +25,6 @@
 - comment recueille-t-on des informations ?
 - comment travailler collectivement de manière efficace ?
 - quelles distractions peuvent freiner notre capacité de production de connaissances ?
-- où peut on utilisé les outils ?
 - comment utilise t-on le logiciel ?
 - quels sont les specialités du logiciel ?
 
@@ -60,6 +56,35 @@
 - feutres qui ne fonctionnent pas, manque d'informations, bruit...
 - Il suffit d'écrire sur le tableau avec un feutre adapté
 - On peut recommencer à l'infini car c'est effacable, on peut rajouter des informations en continue, et il y a une grande surface visuelle, de plus pas de problèmes de réseaux vu que c'est une utilisation manuelle
+# Bibliothèque
+- livres, feuille, stylos, connaissances...
+- étudiants
+- bibliothèque
+- dans les livres, sur les ordinateurs...
+- en se séparant le travail, et en mettant en commun nos recherches pour répondre au sujet
+- la recherche des livres, odeur, atmosphère
+- carte de bibliothèque (abonnement),ou payer sa place ( parfois entrée gratuite )
+- le lieu est silencieux, et est propice au travail
+# Feuille
+- stylos, feuilles, recherches, connaissances
+- étudiants, écoliers
+- salles de classes, écoles, CDI
+- recherche dans des livres et sur internet
+- débat, mise en commun des informations, synthétisation
+- bruit, désaccord, couleurs
+- il faut juste écrire dessus
+- trace sur papier (trace touchable), petite zone donc obligation de synthétiser si on veut que ça rentre, durabilité dans le temps
+# Miro
+- ordis, site miro
+- entreprises, étudiants
+- bureaux, chambre, lieu avec un ordi et du réseau , café, dans son jardin
+- les recherches ne peuvent pas être effectués sur le site donc il faut chercher dans des livres, sur internet, etc...
+- grâce à l'IA, si on est beaucoup on se réparties plus le travail car si on a moins de choses à faire alors elles seront mieux faites (organisation)
+- problèmes de réseau, indisponiblité d'une personne, interactions alentours...
+- tutos dans le site, utilisation intuitive ( s'utilise comme canva ), placement d'éléments (souris), etc
+- aide par l'IA, canal de discussion, visoin du projet final, mise en commun et accès illimité, tableau blanc virtuel, simple d'utilisation
+# Slack
+-
 # helpjuice
 
 - 
