@@ -26,6 +26,7 @@
 - quelles distractions peuvent freiner notre capacité de production de connaissances ?
 - comment utilise t-on le logiciel ?
 - quels sont les specialités du logiciel ?
+- Quels logiciels peuvent etre utilisé pour des travaux collaboratifs ?
 
 
 # Get Guru
