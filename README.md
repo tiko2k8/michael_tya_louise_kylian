@@ -84,7 +84,14 @@
 - tutos dans le site, utilisation intuitive ( s'utilise comme canva ), placement d'éléments (souris), etc
 - aide par l'IA, canal de discussion, visoin du projet final, mise en commun et accès illimité, tableau blanc virtuel, simple d'utilisation
 # Slack
--
+- messagerie slack, ordis, recherches (livres, internet)
+- entreprises
+- bureaux, salles de meeting, télétravail ( maison )
+- recherches extérieur au site ( livres,...)
+- communnication, IA
+- bug du site, problèmes informatiques...
+- téléchargant des documents pour les sauvegarder dans le site, comme une appli comme Discord
+- communication à grand nombres (équipes), sauvegarde de fichiers...
 # helpjuice
 
 - 
