@@ -15,7 +15,6 @@
 - michael : Etherpad : éditeur de texte en temps réel
 - michael : google drive : partage fichiers
 - michael : Airtable : base de données
-- kylian/tya : Slack : communication d'équipes 
 
 
 
