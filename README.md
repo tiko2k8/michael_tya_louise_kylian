@@ -125,9 +125,7 @@
 -Une plateforme tout-en-un pour la gestion d'entreprise (projets, finances, CRM, connaissances), accessibilité sur plusieurs appareils, automatisation des tâches répétitives, personnalisation des workflows pour répondre aux besoins spécifiques des équipes.
 
 #bloomfire
--Intégration avec d'autres outils, Outils de recherche avancée, Analyse pour mesurer l'engagement et l'utilisation des connaissances.
-Systèmes de questions/réponses pour permettre l'interaction entre les membres.
-Fonctionnalités de création et partage de contenu multimédia.
+-Intégration avec d'autres outils, Outils de recherche avancée, Analyse pour mesurer l'engagement et l'utilisation des connaissances, systèmes de questions/réponses pour permettre l'interaction entre les membres, fonctionnalités de création et partage de contenu multimédia.
 -Équipes marketing, Équipes commerciales, Service client, Collaborateurs des entreprises souhaitant partager et aux connaissances, Administrateurs pour structurer les bases de données et suivre les métriques.
 -Une connexion internet stable, ordinateurs ou tablettes, Serveurs Cloud sécurisés.
 
