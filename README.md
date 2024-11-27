@@ -1,17 +1,14 @@
 # michael_tya_louise_kylian
 
-- kylian : Flowlu est une plateforme de collaboration qui aide les entreprises à créer, organiser et partager des connaissances en un seul endroit.
+
 - louise : Helpjuice, outil de gestion des connaissances basé sur le cloud, aide les entreprises à créer, organiser et partager les connaissances à partir d'un point central.
 - michael : Confluence logiciel de partage des connaissances Confluence, d'Atlassian, centralise les informations techniques pour une gestion transparente des besoins informatiques.
 - kylian : Feu de fleurs Bloomfire est une plateforme basée sur le cloud qui aide les entreprises à maximiser leurs efforts de gestion des connaissances.
 - louise : Tettra est un système de gestion des connaissances alimenté par l'IA qui fait de l'éparpillement des connaissances une chose du passé.
 - michael : SharePoint de Microsoft est une plateforme de collaboration basée sur le web et un logiciel de base de connaissances qui permet aux utilisateurs de stocker, d'organiser et de partager des documents, des fichiers et d'autres contenus.
 - kylian : Sabio logiciel de gestion des connaissances Sabio vous permet de créer des outils de base de connaissances dans un environnement multicanal.
-- kylian : table
 - louise : calendrier
-- louise : CDI
 - louise : café ( infrastructures )
-- kylian : livre
 - michael : Etherpad : éditeur de texte en temps réel
 - michael : google drive : partage fichiers
 - michael : Airtable : base de données
@@ -26,7 +23,6 @@
 - quelles distractions peuvent freiner notre capacité de production de connaissances ?
 - comment utilise t-on le logiciel ?
 - quels sont les specialités du logiciel ?
-- Quels logiciels peuvent etre utilisé pour des travaux collaboratifs ?
 
 
 # Get Guru
@@ -98,7 +94,6 @@
 - bug du site, problèmes informatiques...
 - téléchargant des documents pour les sauvegarder dans le site, comme une appli comme Discord
 - communication à grand nombres (équipes), sauvegarde de fichiers...
-# helpjuice
 
 # table
 - livres, feuille, stylos, connaissances...
@@ -126,3 +121,15 @@
 - notifications non prioritaires, mauvaise gestion des priorités, surcharge d'informations, absence de communication.
 - ajoutez les membres de l'équipe, structurez les projets, configurez les pipelines, entralisez les documents, consultez les tableaux de bord pour surveiller les performances.
 - Une plateforme pour la gestion d'entreprise, accessibilité sur plusieurs appareils, automatisation des tâches répétitives, personnalisation des workflows pour répondre aux besoins spécifiques des équipes.
+
+# CDI
+- livres, ordis, table, feuille, stylos
+- lycéens, collégiens
+- CDI (collège ou lycée)
+- recherches livres ou internet
+- se mettre en groupe sur une table et répartir les recherches, ensuite mise en commun
+- température, l'inconfort
+- s'inscrire dans la liste et se placer, rechercher dans les ressources du CDI
+- espace fait pour travailler, silencieux
+
+n
