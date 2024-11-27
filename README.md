@@ -35,6 +35,7 @@
 - bruit ( si travaille dans un lieu public ), problèmes de réseaux, lumière bleu des ordis
 - logiciel intuitif, basés sur la recherche et le questionnement auprès des IA
 - IA
+
 # Notion 
 - ordinateurs, site ou logiciel notion
 - entreprises, professeurs, élèves...
@@ -44,6 +45,7 @@
 - Les interactions sensorielles environnentes (bruit, température), problèmes de réseaux
 - il est très intutifs, on peut simplment faire des clics droits pour découvrir les différents modes ou regarder les tutos faits par les créateurs qui sont dans le logiciel
 - C'est un site qui sert à la prise de notes, à l'organisation et donc au partage d'informations avec d'autres utilisateurs, il perlet de s'organiser grâce à différents types de dossiers disponible sur la plateforme, il permet aussi de stocker ces fichiers (cloud)
+
 # Tableau blanc 
 - tableau, feutres à tableaux blancs
 - élèves, professeurs...
@@ -53,6 +55,7 @@
 - feutres qui ne fonctionnent pas, manque d'informations, bruit...
 - Il suffit d'écrire sur le tableau avec un feutre adapté
 - On peut recommencer à l'infini car c'est effacable, on peut rajouter des informations en continue, et il y a une grande surface visuelle, de plus pas de problèmes de réseaux vu que c'est une utilisation manuelle
+
 # Bibliothèque
 - livres, feuille, stylos, connaissances...
 - étudiants
@@ -62,6 +65,7 @@
 - la recherche des livres, odeur, atmosphère
 - carte de bibliothèque (abonnement),ou payer sa place ( parfois entrée gratuite )
 - le lieu est silencieux, et est propice au travail
+
 # Feuille
 - stylos, feuilles, recherches, connaissances
 - étudiants, écoliers
@@ -71,6 +75,7 @@
 - bruit, désaccord, couleurs
 - il faut juste écrire dessus
 - trace sur papier (trace touchable), petite zone donc obligation de synthétiser si on veut que ça rentre, durabilité dans le temps
+
 # Miro
 - ordis, site miro
 - entreprises, étudiants
@@ -80,6 +85,7 @@
 - problèmes de réseau, indisponiblité d'une personne, interactions alentours...
 - tutos dans le site, utilisation intuitive ( s'utilise comme canva ), placement d'éléments (souris), etc
 - aide par l'IA, canal de discussion, visoin du projet final, mise en commun et accès illimité, tableau blanc virtuel, simple d'utilisation
+
 # Slack
 - messagerie slack, ordis, recherches (livres, internet)
 - entreprises
@@ -113,40 +119,13 @@
 - ordinateur, site flowlu, tableaux Kanban, diagrammes de Gantt
 - Chefs de projets, équipes opérationnelles, managers, entrepreneurs et PME, freelances souhaitant gérer plusieurs projets clients.
 - Une connexion internet fiable, ordinateurs, tablettes ou smartphones, Serveurs Cloud sécurisés
-- Centralisation des informations via la base de connaissances.
-Suivi automatique des tâches et des projets (temps passé, progression).
-Collecte et organisation des données clients dans le CRM.
-Génération de rapports détaillés pour analyser la performance.
--Assignation des tâches claires avec des délais précis.
-Utilisation des tableaux Kanban pour visualiser la progression des projets.
-Collaboration via des commentaires sur les projets et tâches.
-Partage des documents directement dans la base de connaissances.
-Intégration des notifications pour éviter les oublis.
--Multiplication des notifications non prioritaires.
-Mauvaise gestion des priorités dans les tâches assignées.
-Surcharge d'informations ou mauvaise organisation des données dans le logiciel.
-Absence de communication claire entre les membres de l'équipe.
--Créez un compte Flowlu et configurez les paramètres d'entreprise.
-Ajoutez les membres de l'équipe.
-Structurez les projets et les tâches dans des tableaux Kanban ou Gantt.
-Configurez les pipelines pour le suivi client via le CRM.
-Centralisez les documents et informations dans la base de connaissances.
-Consultez les tableaux de bord pour surveiller les performances.
--Une plateforme tout-en-un pour la gestion d'entreprise (projets, finances, CRM, connaissances).
-Accessibilité sur plusieurs appareils.
-Automatisation des tâches répétitives.
-Personnalisation des workflows pour répondre aux besoins spécifiques des équipes.
-
-#bloomfire
--Intégration avec d'autres outils, Outils de recherche avancée, Analyse pour mesurer l'engagement et l'utilisation des connaissances.
-Systèmes de questions/réponses pour permettre l'interaction entre les membres.
-Fonctionnalités de création et partage de contenu multimédia.
--Équipes marketing, Équipes commerciales, Service client, Collaborateurs des entreprises souhaitant partager et aux connaissances, Administrateurs pour structurer les bases de données et suivre les métriques.
--Une connexion internet stable, ordinateurs ou tablettes, Serveurs Cloud sécurisés.
-
--
--
--
+- Centralisation des informations via la base de connaissances, suivi automatique des tâches et des projets (temps passé, progression), collecte et organisation des données clients dans le CRM, génération de rapports détaillés pour analyser la performance.
+   Assignation des tâches claires avec des délais précis, utilisation des tableaux Kanban pour visualiser la progression des projets, collaboration via des commentaires sur les projets et tâches, partage des documents directement dans la base de connaissances, 
+   intégration des notifications pour éviter les oublis.
+- Multiplication des notifications non prioritaires, mauvaise gestion des priorités dans les tâches assignées, surcharge d'informations ou mauvaise organisation des données dans le logiciel, absence de communication claire entre les membres de l'équipe.
+- Créez un compte Flowlu et configurez les paramètres d'entreprise, ajoutez les membres de l'équipe, structurez les projets et les tâches dans des tableaux Kanban ou Gantt, configurez les pipelines pour le suivi client via le CRM, entralisez les documents et 
+   informations dans la base de connaissances, consultez les tableaux de bord pour surveiller les performances.
+- Une plateforme tout-en-un pour la gestion d'entreprise (projets, finances, CRM, connaissances), accessibilité sur plusieurs appareils, automatisation des tâches répétitives, personnalisation des workflows pour répondre aux besoins spécifiques des équipes.
 # CDI
 - livres, ordis, table, feuille, stylos
 - lycéens, collégiens
@@ -156,3 +135,5 @@ Fonctionnalités de création et partage de contenu multimédia.
 - température, l'inconfort
 - s'inscrire dans la liste et se placer, rechercher dans les ressources du CDI
 - espace fait pour travailler, silencieux
+
+
