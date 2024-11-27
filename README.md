@@ -120,12 +120,9 @@
 
 # flowlu
 - ordinateur, site flowlu, tableaux Kanban, diagrammes de Gantt
-- Chefs de projets, équipes opérationnelles, managers, entrepreneurs et PME, freelances souhaitant gérer plusieurs projets clients.
-- Une connexion internet fiable, ordinateurs, tablettes ou smartphones, Serveurs Cloud sécurisés
-- Centralisation des informations via la base de connaissances, suivi automatique des tâches et des projets (temps passé, progression), collecte et organisation des données clients dans le CRM, génération de rapports détaillés pour analyser la performance.
-   Assignation des tâches claires avec des délais précis, utilisation des tableaux Kanban pour visualiser la progression des projets, collaboration via des commentaires sur les projets et tâches, partage des documents directement dans la base de connaissances, 
-   intégration des notifications pour éviter les oublis.
-- Multiplication des notifications non prioritaires, mauvaise gestion des priorités dans les tâches assignées, surcharge d'informations ou mauvaise organisation des données dans le logiciel, absence de communication claire entre les membres de l'équipe.
-- Créez un compte Flowlu et configurez les paramètres d'entreprise, ajoutez les membres de l'équipe, structurez les projets et les tâches dans des tableaux Kanban ou Gantt, configurez les pipelines pour le suivi client via le CRM, entralisez les documents et 
-   informations dans la base de connaissances, consultez les tableaux de bord pour surveiller les performances.
-- Une plateforme tout-en-un pour la gestion d'entreprise (projets, finances, CRM, connaissances), accessibilité sur plusieurs appareils, automatisation des tâches répétitives, personnalisation des workflows pour répondre aux besoins spécifiques des équipes.
+- Chefs de projets, équipes opérationnelles, managers, entrepreneurs, freelances.
+- Une connexion internet , ordinateurs, tablettes ou smartphones, Serveurs Cloud sécurisés
+- Centralisation des informations, suivi automatique, collecte et organisation des données, génération de rapports détaillés, assignation des tâches, tableaux Kanban, collaboration via des commentaires, partage des documents, notifications pour éviter les oublis.
+- notifications non prioritaires, mauvaise gestion des priorités, surcharge d'informations, absence de communication.
+- ajoutez les membres de l'équipe, structurez les projets, configurez les pipelines, entralisez les documents, consultez les tableaux de bord pour surveiller les performances.
+- Une plateforme pour la gestion d'entreprise, accessibilité sur plusieurs appareils, automatisation des tâches répétitives, personnalisation des workflows pour répondre aux besoins spécifiques des équipes.
