@@ -38,6 +38,7 @@
 - bruit ( si travaille dans un lieu public ), problèmes de réseaux, lumière bleu des ordis
 - logiciel intuitif, basés sur la recherche et le questionnement auprès des IA
 - IA
+
 # Notion 
 - ordinateurs, site ou logiciel notion
 - entreprises, professeurs, élèves...
@@ -47,6 +48,7 @@
 - Les interactions sensorielles environnentes (bruit, température), problèmes de réseaux
 - il est très intutifs, on peut simplment faire des clics droits pour découvrir les différents modes ou regarder les tutos faits par les créateurs qui sont dans le logiciel
 - C'est un site qui sert à la prise de notes, à l'organisation et donc au partage d'informations avec d'autres utilisateurs, il perlet de s'organiser grâce à différents types de dossiers disponible sur la plateforme, il permet aussi de stocker ces fichiers (cloud)
+
 # Tableau blanc 
 - tableau, feutres à tableaux blancs
 - élèves, professeurs...
@@ -56,6 +58,7 @@
 - feutres qui ne fonctionnent pas, manque d'informations, bruit...
 - Il suffit d'écrire sur le tableau avec un feutre adapté
 - On peut recommencer à l'infini car c'est effacable, on peut rajouter des informations en continue, et il y a une grande surface visuelle, de plus pas de problèmes de réseaux vu que c'est une utilisation manuelle
+
 # Bibliothèque
 - livres, feuille, stylos, connaissances...
 - étudiants
@@ -65,6 +68,7 @@
 - la recherche des livres, odeur, atmosphère
 - carte de bibliothèque (abonnement),ou payer sa place ( parfois entrée gratuite )
 - le lieu est silencieux, et est propice au travail
+
 # Feuille
 - stylos, feuilles, recherches, connaissances
 - étudiants, écoliers
@@ -74,6 +78,7 @@
 - bruit, désaccord, couleurs
 - il faut juste écrire dessus
 - trace sur papier (trace touchable), petite zone donc obligation de synthétiser si on veut que ça rentre, durabilité dans le temps
+
 # Miro
 - ordis, site miro
 - entreprises, étudiants
@@ -83,6 +88,7 @@
 - problèmes de réseau, indisponiblité d'une personne, interactions alentours...
 - tutos dans le site, utilisation intuitive ( s'utilise comme canva ), placement d'éléments (souris), etc
 - aide par l'IA, canal de discussion, visoin du projet final, mise en commun et accès illimité, tableau blanc virtuel, simple d'utilisation
+
 # Slack
 - messagerie slack, ordis, recherches (livres, internet)
 - entreprises
